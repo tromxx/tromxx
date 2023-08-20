@@ -25,7 +25,7 @@
 	<br/>
 	<br/>
 	<p>🎨 SNS & Portfolio 🎨</p>
-	<a href="">
+	<a href="https://fine-honeycup-2b3.notion.site/16e796eef5794429b167f0fab5355184?pvs=4">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="mailto:husik927@gmail.com">
